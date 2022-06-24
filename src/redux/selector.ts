@@ -1,0 +1,1 @@
+export const getMultisig = (state) => state.data
